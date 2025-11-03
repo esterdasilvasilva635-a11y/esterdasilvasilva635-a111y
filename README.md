@@ -1,61 +1,62 @@
-# esterdasilvasilva635-a111y
-# Ester Silva
+# 👋 Olá, eu sou Ester Silva
 
- Desenvolvedora Web | Redações Personalizadas.
+## 💻 Desenvolvedora Web | Redações Personalizadas
 
 ---
 
 ## Sobre Mim
 
-Olá! Sou Ester Silva, especialista em elaboração de conteúdos e redações para vestibulares e concursos. Ajudo estudantes e profissionais a dominarem a arte da escrita, com dicas, exemplos e serviços personalizados. 
-Eu realizo criações de sites simples porém acessíveis, domino o Html, CSS, JavaScript.
-Aqui no meu GitHub, compartilho projetos, exemplos e ferramentas que podem ajudar você a aprimorar suas habilidades.
+Sou especialista em elaboração de conteúdos e redações para vestibulares e concursos. Ajudo estudantes e profissionais a dominarem a arte da escrita, com dicas, exemplos e serviços personalizados. Também crio sites simples, acessíveis e responsivos utilizando HTML, CSS e JavaScript.
 
 ---
 
-## O que você encontra aqui?
+## 🛠️ Tecnologias e Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 📚 O que você encontra aqui?
 
 - Exemplos completos de redações para temas atuais e relevantes  
-- Dicas valiosas para estruturar textos claros e impactantes  
-- Projetos e códigos de sites que uso para oferecer serviços online  
-- Ferramentas simples para ajudar no aprendizado da escrita  
-- Contato direto para solicitar redações personalizadas e correções
+- Dicas para textos claros e impactantes  
+- Projetos web que criei para oferecer serviços online  
+- Ferramentas simples para aprendizado da escrita  
+- Contato direto para redações personalizadas e correções
 
 ---
 
-## Minhas Redes e Contato
+## 💼 Projetos em Destaque
 
-- 📧 Email: [esterdasilvasilva635@gmail.com](mailto:esterdasilvasilva635@gmail.com)  
-- 💬 WhatsApp: +55 17 99639-1801  
-- 🌐 Portfólio: (adicione o link se tiver)  
-- LinkedIn: (adicione o link se tiver)
-
----
-
-## Projetos em Destaque
-
-| Projeto               | Descrição                                         | Link                                      |
-|-----------------------|-------------------------------------------------|-------------------------------------------|
-| Página de Redações    | Site responsivo com dicas, exemplos e serviços  | [GitHub](https://github.com/seuusuario/projeto-redacoes) |
-| Calculadora Online    | Projeto simples de calculadora feita em JS      | [GitHub](https://github.com/seuusuario/calculadora-online) |
-| Sistema de Correção   | Protótipo de feedback automático para redações  | (em desenvolvimento)                      |
+| Projeto             | Descrição                                        | Link                                                 |
+|---------------------|------------------------------------------------|------------------------------------------------------|
+| Página de Redações   | Site responsivo com dicas, exemplos e serviços | [GitHub](https://github.com/seuusuario/projeto-redacoes) |
+| Calculadora Online   | Calculadora simples feita em JavaScript        | [GitHub](https://github.com/seuusuario/calculadora-online) |
+| Sistema de Correção  | Protótipo de feedback automático para redações | (em desenvolvimento)                                  |
 
 ---
 
-## Como você pode colaborar?
+## 📞 Contato
+
+- 📧 [esterdasilvasilva635@gmail.com](mailto:esterdasilvasilva635@gmail.com)  
+- 💬 WhatsApp: [+55 17 99639-1801](https://wa.me/5517996391801)
+
+---
+
+## 🤝 Colabore
 
 - Faça fork dos repositórios e envie pull requests  
-- Abra issues para sugestões ou dúvidas  
+- Abra issues para dúvidas e sugestões  
 - Compartilhe seus projetos e experiências comigo  
 
 ---
 
-Obrigado pela visita! ❤️
-
-[Estarei sempre à disposição para ajudar você a evoluir na escrita e na tecnologia!]
+Obrigado pela visita! ❤️  
+Estarei sempre à disposição para ajudar você a evoluir na escrita e na tecnologia!
 
 ---
 
-<center>
-![Banner de Redação](https://github.com/seuusuario/seurepositorio/raw/main/Capa-de-materia.jpg)
-</center>
+<p align="center">
+  <img src="https://github.com/seuusuario/seurepositorio/raw/main/Capa-de-materia.jpg" alt="Banner de Redação" width="500" />
+</p>
+
