@@ -30,8 +30,8 @@ Sou especialista em elaboração de conteúdos e redações para vestibulares e 
 
 | Projeto             | Descrição                                        | Link                                                 |
 |---------------------|------------------------------------------------|------------------------------------------------------|
-| Página de Redações   | Site responsivo com dicas, exemplos e serviços | [GitHub](https://github.com/seuusuario/projeto-redacoes) |
-| Calculadora Online   | Calculadora simples feita em JavaScript        | [GitHub](https://github.com/seuusuario/calculadora-online) |
+| Página de Redações   | Site responsivo com dicas, exemplos e serviços | [GitHub]() |
+| Calculadora Online   | Calculadora simples feita em JavaScript        | [GitHub](https://github.com/esterdasilvasilva635-a11y/Calculadora-online.git) |
 | Sistema de Correção  | Protótipo de feedback automático para redações | (em desenvolvimento)                                  |
 
 ---
